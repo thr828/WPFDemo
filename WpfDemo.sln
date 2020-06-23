@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDemo", "WpfDemo\WpfDemo.csproj", "{1B522224-F113-48E3-9346-C519C1810267}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyWPF", "HappyWPF\HappyWPF.csproj", "{6691BB89-78DB-4298-963F-89B7EC021B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlLibrary", "ControlLibrary\ControlLibrary.csproj", "{0AD69D4A-24FE-465E-87DB-8EADA19F4AD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1B522224-F113-48E3-9346-C519C1810267}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B522224-F113-48E3-9346-C519C1810267}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B522224-F113-48E3-9346-C519C1810267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6691BB89-78DB-4298-963F-89B7EC021B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6691BB89-78DB-4298-963F-89B7EC021B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6691BB89-78DB-4298-963F-89B7EC021B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6691BB89-78DB-4298-963F-89B7EC021B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD69D4A-24FE-465E-87DB-8EADA19F4AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD69D4A-24FE-465E-87DB-8EADA19F4AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD69D4A-24FE-465E-87DB-8EADA19F4AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD69D4A-24FE-465E-87DB-8EADA19F4AD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

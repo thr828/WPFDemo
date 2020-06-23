@@ -1,0 +1,12 @@
+D:\Project\WPFDemo\ControlLibrary\bin\Debug\ControlLibrary.dll
+D:\Project\WPFDemo\ControlLibrary\bin\Debug\ControlLibrary.pdb
+D:\Project\WPFDemo\ControlLibrary\obj\Debug\SalaryCalculator.baml
+D:\Project\WPFDemo\ControlLibrary\obj\Debug\SalaryCalculator.g.cs
+D:\Project\WPFDemo\ControlLibrary\obj\Debug\ControlLibrary_MarkupCompile.cache
+D:\Project\WPFDemo\ControlLibrary\obj\Debug\ControlLibrary.g.resources
+D:\Project\WPFDemo\ControlLibrary\obj\Debug\ControlLibrary.Properties.Resources.resources
+D:\Project\WPFDemo\ControlLibrary\obj\Debug\ControlLibrary.csproj.GenerateResource.cache
+D:\Project\WPFDemo\ControlLibrary\obj\Debug\ControlLibrary.csproj.CoreCompileInputs.cache
+D:\Project\WPFDemo\ControlLibrary\obj\Debug\ControlLibrary.dll
+D:\Project\WPFDemo\ControlLibrary\obj\Debug\ControlLibrary.pdb
+D:\Project\WPFDemo\ControlLibrary\obj\Debug\ControlLibrary.csprojAssemblyReference.cache

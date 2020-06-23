@@ -5,13 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfDemo"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Window1" Height="450" Width="800">
     <Grid>
         <Path Data="M 0 0 L 200 100 L 100 200" Stroke="Black" Fill="Red"></Path>
-        <Button Width="120" Height="50">
+        <Button Width="120" Height="50" HorizontalAlignment="Right" VerticalAlignment="Center">
             <Button.Content>
                 <Rectangle Width="20" Height="20" Stroke="DarkGreen" Fill="LawnGreen"></Rectangle>
             </Button.Content>
         </Button>
+        
+        <Button  Name="Button1" Content="click me"  Width="200" Height="100" Click="Button1_OnClick"></Button>
     </Grid>
 </Window>
