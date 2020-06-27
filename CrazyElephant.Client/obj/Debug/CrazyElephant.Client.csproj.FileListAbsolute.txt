@@ -1,0 +1,14 @@
+D:\Project\WPFDemo\CrazyElephant.Client\bin\Debug\CrazyElephant.Client.exe.config
+D:\Project\WPFDemo\CrazyElephant.Client\bin\Debug\CrazyElephant.Client.exe
+D:\Project\WPFDemo\CrazyElephant.Client\bin\Debug\CrazyElephant.Client.pdb
+D:\Project\WPFDemo\CrazyElephant.Client\obj\Debug\MainWindow.g.cs
+D:\Project\WPFDemo\CrazyElephant.Client\obj\Debug\App.g.cs
+D:\Project\WPFDemo\CrazyElephant.Client\obj\Debug\CrazyElephant.Client_MarkupCompile.cache
+D:\Project\WPFDemo\CrazyElephant.Client\obj\Debug\CrazyElephant.Client_MarkupCompile.lref
+D:\Project\WPFDemo\CrazyElephant.Client\obj\Debug\MainWindow.baml
+D:\Project\WPFDemo\CrazyElephant.Client\obj\Debug\CrazyElephant.Client.g.resources
+D:\Project\WPFDemo\CrazyElephant.Client\obj\Debug\CrazyElephant.Client.Properties.Resources.resources
+D:\Project\WPFDemo\CrazyElephant.Client\obj\Debug\CrazyElephant.Client.csproj.GenerateResource.cache
+D:\Project\WPFDemo\CrazyElephant.Client\obj\Debug\CrazyElephant.Client.csproj.CoreCompileInputs.cache
+D:\Project\WPFDemo\CrazyElephant.Client\obj\Debug\CrazyElephant.Client.exe
+D:\Project\WPFDemo\CrazyElephant.Client\obj\Debug\CrazyElephant.Client.pdb

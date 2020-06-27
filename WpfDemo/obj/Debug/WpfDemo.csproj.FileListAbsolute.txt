@@ -12,3 +12,4 @@ D:\Project\WPFDemo\WpfDemo\obj\Debug\WpfDemo.csproj.GenerateResource.cache
 D:\Project\WPFDemo\WpfDemo\obj\Debug\WpfDemo.csproj.CoreCompileInputs.cache
 D:\Project\WPFDemo\WpfDemo\obj\Debug\WpfDemo.exe
 D:\Project\WPFDemo\WpfDemo\obj\Debug\WpfDemo.pdb
+D:\Project\WPFDemo\WpfDemo\obj\Debug\WpfDemo.csprojAssemblyReference.cache

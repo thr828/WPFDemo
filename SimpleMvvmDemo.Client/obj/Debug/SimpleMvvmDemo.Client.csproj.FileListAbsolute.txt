@@ -16,3 +16,4 @@ D:\Project\WPFDemo\SimpleMvvmDemo.Client\obj\Debug\SimpleMvvmDemo.Client.exe
 D:\Project\WPFDemo\SimpleMvvmDemo.Client\obj\Debug\SimpleMvvmDemo.Client.pdb
 D:\Project\WPFDemo\SimpleMvvmDemo.Client\obj\Debug\MVVM.g.cs
 D:\Project\WPFDemo\SimpleMvvmDemo.Client\obj\Debug\MVVM.baml
+D:\Project\WPFDemo\SimpleMvvmDemo.Client\obj\Debug\SimpleMvvmDemo.Client.csprojAssemblyReference.cache
