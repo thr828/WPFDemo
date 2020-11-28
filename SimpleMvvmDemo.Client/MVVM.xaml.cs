@@ -25,5 +25,10 @@ namespace SimpleMvvmDemo.Client
             InitializeComponent();
             this.DataContext = new MvvMViewModel();
         }
+
+        private void btnShow_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

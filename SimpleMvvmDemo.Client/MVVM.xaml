@@ -7,12 +7,17 @@
         mc:Ignorable="d"
         Title="MVVM" Height="450" Width="800">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="31*"/>
+            <ColumnDefinition Width="137*"/>
+            <ColumnDefinition Width="229*"/>
+        </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition  Height="*"/>
         </Grid.RowDefinitions>
-        <Button Content="Save" Name="saveButton" Command="{Binding SaveCommand}"/>
-        <Grid Grid.Row="1">
+        <Button Content="Save" Name="saveButton" Command="{Binding SaveCommand}" Grid.ColumnSpan="3" Margin="0,0,-0.4,0.4"/>
+        <Grid Grid.ColumnSpan="3" Margin="0,18,-0.4,0" Grid.RowSpan="2">
 
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto" />
@@ -26,7 +31,7 @@
             <TextBox  x:Name="tb3" Grid.Row="2" Background="LightBlue" FontSize="24" Margin="4,4,3.6,3" Grid.ColumnSpan="3" Text="{Binding Result}"/>
             <Button  x:Name="addButton" Grid.Row="3" Content="Add" Width="120" Height="30" Grid.ColumnSpan="3"  Command="{Binding AddCommand}"
                      Margin="337,101,336.6,100.6" />
-            <Button  x:Name="btnShow"   Grid.Row="4" Content="ShowOther"   Width="120" Height="30"  />
+            <Button  x:Name="btnShow"   Grid.Row="4" Content="ShowOther"   Width="120" Height="30" Click="btnShow_Click"  />
         </Grid>
     </Grid>
 </Window>

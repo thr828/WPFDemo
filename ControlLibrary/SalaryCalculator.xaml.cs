@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace ControlLibrary
 {
     /// <summary>
-    /// 用户控件
+    /// 用户控件选择的项目时，用户控件库
     /// </summary>
     public partial class SalaryCalculator : UserControl
     {
@@ -27,6 +27,18 @@ namespace ControlLibrary
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
+            if (string.IsNullOrEmpty(this.textBox.Text))
+            {
+                MessageBox.Show("基本工资不能为空！");
+                return;
+            }
+
+            if (string.IsNullOrEmpty(this.textBox1.Text))
+            {
+                MessageBox.Show("岗位工资不能为空！");
+                return;
+            }
+
             this.textBox2.Text = (int.Parse(this.textBox.Text) + int.Parse(this.textBox1.Text)).ToString();
         }
     }

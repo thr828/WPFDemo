@@ -6,9 +6,9 @@
         <Label x:Name="Label1" Content="基本工资:" Canvas.Left="12" Canvas.Top="12" Height="28"/>
         <Label x:Name="Label2" Content="岗位工资:" Canvas.Left="12" Canvas.Top="46" Height="28"/>
         <Label x:Name="Label3" Content="实际工资:" Canvas.Left="10" Canvas.Top="80" Height="28" />
-        <TextBox x:Name="textBox" Canvas.Left="90" Canvas.Top="17"  Text="" TextWrapping="Wrap" Width="120"/>
-        <TextBox x:Name="textBox1" Canvas.Left="90" Canvas.Top="51" Text="" TextWrapping="Wrap" Width="120"/>
-        <TextBox x:Name="textBox2" Canvas.Left="90" Canvas.Top="85" Text="" TextWrapping="Wrap" Width="120"/>
+        <TextBox x:Name="textBox" Canvas.Left="90" Canvas.Top="12"  Text="" TextWrapping="Wrap" Width="120"/>
+        <TextBox x:Name="textBox1" Canvas.Left="90" Canvas.Top="46" Text="" TextWrapping="Wrap" Width="120"/>
+        <TextBox x:Name="textBox2" Canvas.Left="90" Canvas.Top="80" Text="" TextWrapping="Wrap" Width="120"/>
         <Button x:Name="button" Content="计算" Canvas.Left="90" Canvas.Top="124" Width="120" Click="button_Click"/>
 
     </Canvas>

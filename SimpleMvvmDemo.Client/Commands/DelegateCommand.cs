@@ -7,6 +7,9 @@ using System.Windows.Input;
 
 namespace SimpleMvvmDemo.Client.Commands
 {
+    /// <summary>
+    /// 命令属性
+    /// </summary>
     public class DelegateCommand : ICommand
     {
         public event EventHandler CanExecuteChanged;

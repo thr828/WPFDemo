@@ -9,8 +9,8 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
-          <ColumnDefinition/>
-           <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <control:SalaryCalculator Grid.Column="0" Grid.Row="0"/>
         <control:SalaryCalculator Grid.Column="1" Grid.Row="0"/>
