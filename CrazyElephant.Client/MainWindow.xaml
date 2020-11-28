@@ -35,11 +35,11 @@
             <DataGrid AutoGenerateColumns="False" GridLinesVisibility="None" CanUserDeleteRows="False" 
                       CanUserAddRows="False" Margin="0.4" Grid.Row="1" FontSize="16" ItemsSource="{Binding DishMenu}">
                 <DataGrid.Columns>
-                    <DataGridTextColumn Header="菜品" Binding="{Binding dish.Name}" Width="120"/>
-                    <DataGridTextColumn Header="种类" Binding="{Binding dish.Category}" Width="120"/>
-                    <DataGridTextColumn Header="点评" Binding="{Binding dish.Comment}" Width="120"/>
-                    <DataGridTextColumn Header="推荐分数" Binding="{Binding dish.Score}" Width="120"/>
-                    <DataGridTemplateColumn Header="选中" SortMemberPath="IsSelected" Width="120">
+                    <DataGridTextColumn Header="菜品" Binding="{Binding dish.Name}" Width="120" d:IsHidden="True"/>
+                    <DataGridTextColumn Header="种类" Binding="{Binding dish.Category}" Width="120" d:IsHidden="True"/>
+                    <DataGridTextColumn Header="点评" Binding="{Binding dish.Comment}" Width="120" d:IsHidden="True"/>
+                    <DataGridTextColumn Header="推荐分数" Binding="{Binding dish.Score}" Width="120" d:IsHidden="True"/>
+                    <DataGridTemplateColumn Header="选中" SortMemberPath="IsSelected" Width="120" d:IsHidden="True">
                         <DataGridTemplateColumn.CellTemplate>
                             <DataTemplate>
                                 <CheckBox  IsChecked="{Binding Path=IsSelected,UpdateSourceTrigger=PropertyChanged}"
@@ -56,6 +56,6 @@
                 <Button  Content="Order" Height="24" Width="120" Command="{Binding PlaceOrderCommand}"/>
             </StackPanel>
         </Grid>
-      
+
     </Border>
 </Window>
