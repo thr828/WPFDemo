@@ -12,3 +12,5 @@ D:\Project\WPFDemo\CrazyElephant.Client\obj\Debug\CrazyElephant.Client.csproj.Ge
 D:\Project\WPFDemo\CrazyElephant.Client\obj\Debug\CrazyElephant.Client.csproj.CoreCompileInputs.cache
 D:\Project\WPFDemo\CrazyElephant.Client\obj\Debug\CrazyElephant.Client.exe
 D:\Project\WPFDemo\CrazyElephant.Client\obj\Debug\CrazyElephant.Client.pdb
+D:\Project\WPFDemo\CrazyElephant.Client\bin\Debug\Data\Data.xml
+D:\Project\WPFDemo\CrazyElephant.Client\obj\Debug\CrazyElephant.Client_Content.g.cs

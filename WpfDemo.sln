@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMvvmDemo.Client", "Si
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyElephant.Client", "CrazyElephant.Client\CrazyElephant.Client.csproj", "{B2EB66D5-FBC8-4053-B278-DB8771CC69B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyElephant.Client.Prism", "CrazyElephant.Client.Prism\CrazyElephant.Client.Prism.csproj", "{3BB9274E-8BB1-4CA2-956C-B7E694DFA8FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B2EB66D5-FBC8-4053-B278-DB8771CC69B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2EB66D5-FBC8-4053-B278-DB8771CC69B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2EB66D5-FBC8-4053-B278-DB8771CC69B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB9274E-8BB1-4CA2-956C-B7E694DFA8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB9274E-8BB1-4CA2-956C-B7E694DFA8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB9274E-8BB1-4CA2-956C-B7E694DFA8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB9274E-8BB1-4CA2-956C-B7E694DFA8FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
