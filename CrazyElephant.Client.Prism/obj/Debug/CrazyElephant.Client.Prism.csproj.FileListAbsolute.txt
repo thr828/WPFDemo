@@ -20,3 +20,9 @@ D:\Project\WPFDemo\CrazyElephant.Client.Prism\obj\Debug\CrazyElephant.Client.Pri
 D:\Project\WPFDemo\CrazyElephant.Client.Prism\obj\Debug\CrazyElephant.Client.Prism.csproj.CopyComplete
 D:\Project\WPFDemo\CrazyElephant.Client.Prism\obj\Debug\CrazyElephant.Client.Prism.exe
 D:\Project\WPFDemo\CrazyElephant.Client.Prism\obj\Debug\CrazyElephant.Client.Prism.pdb
+D:\Project\WPFDemo\CrazyElephant.Client.Prism\bin\Debug\MaterialDesignColors.dll
+D:\Project\WPFDemo\CrazyElephant.Client.Prism\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Project\WPFDemo\CrazyElephant.Client.Prism\bin\Debug\MaterialDesignColors.pdb
+D:\Project\WPFDemo\CrazyElephant.Client.Prism\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Project\WPFDemo\CrazyElephant.Client.Prism\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Project\WPFDemo\CrazyElephant.Client.Prism\obj\Debug\App.baml

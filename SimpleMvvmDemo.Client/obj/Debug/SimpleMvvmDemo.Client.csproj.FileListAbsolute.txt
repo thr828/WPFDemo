@@ -17,3 +17,10 @@ D:\Project\WPFDemo\SimpleMvvmDemo.Client\obj\Debug\SimpleMvvmDemo.Client.pdb
 D:\Project\WPFDemo\SimpleMvvmDemo.Client\obj\Debug\MVVM.g.cs
 D:\Project\WPFDemo\SimpleMvvmDemo.Client\obj\Debug\MVVM.baml
 D:\Project\WPFDemo\SimpleMvvmDemo.Client\obj\Debug\SimpleMvvmDemo.Client.csprojAssemblyReference.cache
+D:\Project\WPFDemo\SimpleMvvmDemo.Client\bin\Debug\MaterialDesignColors.dll
+D:\Project\WPFDemo\SimpleMvvmDemo.Client\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Project\WPFDemo\SimpleMvvmDemo.Client\bin\Debug\MaterialDesignColors.pdb
+D:\Project\WPFDemo\SimpleMvvmDemo.Client\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Project\WPFDemo\SimpleMvvmDemo.Client\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Project\WPFDemo\SimpleMvvmDemo.Client\obj\Debug\SimpleMvvmDemo.Client.csproj.CopyComplete
+D:\Project\WPFDemo\SimpleMvvmDemo.Client\obj\Debug\App.baml

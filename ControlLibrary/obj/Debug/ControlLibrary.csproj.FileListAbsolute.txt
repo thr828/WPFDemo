@@ -9,3 +9,4 @@ D:\Project\WPFDemo\ControlLibrary\obj\Debug\ControlLibrary.csproj.GenerateResour
 D:\Project\WPFDemo\ControlLibrary\obj\Debug\ControlLibrary.csproj.CoreCompileInputs.cache
 D:\Project\WPFDemo\ControlLibrary\obj\Debug\ControlLibrary.dll
 D:\Project\WPFDemo\ControlLibrary\obj\Debug\ControlLibrary.pdb
+D:\Project\WPFDemo\ControlLibrary\obj\Debug\ControlLibrary.csprojAssemblyReference.cache
